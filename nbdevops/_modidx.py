@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://nitinverma78.github.io',
                 'git_url': 'https://github.com/nitinverma78/nbdevops',
                 'lib_path': 'nbdevops'},
-  'syms': {'nbdevops.core': {'nbdevops.core.foo': ('core.html#foo', 'nbdevops/core.py')}}}
+  'syms': {'nbdevops.core': {'nbdevops.core.foo': ('setup.html#foo', 'nbdevops/core.py')}}}
