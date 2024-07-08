@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevops"
+  site-url: "https://nitinverma78.github.io/nbdevops"
+  description: "Python Notebook based Development Using VS code"
+  repo-branch: main
+  repo-url: "https://github.com/nitinverma78/nbdevops"
