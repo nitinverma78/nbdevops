@@ -6,7 +6,7 @@ echo 'source ./.venv/bin/activate' >> ~/.bashrc
 #Below only used if conda is needed)
 #make install-tensorflow-conda
 pip install -r ./requirements.txt 
-nbdev_install_quarto
+#nbdev_install_quarto
 nbdev_new
 pip install -e '.[dev]'
 nbdev_prepare
