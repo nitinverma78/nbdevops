@@ -15,7 +15,14 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "bash setup.sh" //, "pip3 install --user -r requirements.txt"
+	"postCreateCommand": "bash setup.sh",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"vscodevim.vim"
+			]
+		}
+	} //, "pip3 install --user -r requirements.txt"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
