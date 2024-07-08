@@ -19,7 +19,13 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"vscodevim.vim"
+				"vscodevim.vim",
+				"ms-python.python",
+				"ms-python.debugpy",
+				"ms-python.autopep8",
+				"ms-python.vscode-pylance",
+				"HamelHusain.nbdev",
+				"ms-toolsai.jupyter"
 			]
 		}
 	} //, "pip3 install --user -r requirements.txt"
